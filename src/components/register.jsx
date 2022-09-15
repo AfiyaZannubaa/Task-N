@@ -52,7 +52,7 @@ export default function Register(){
                     onChange={(e)=>handleChange(e)}
                      placeholder="Password" />
                 </div>
-                <div className= "formgroup"> 
+                <div className= "form-group"> 
                     <label htmlFor="Name">Name</label>
                     <input type="text" name="name" className="form-control" 
                     onChange={(e)=>handleChange(e)}
